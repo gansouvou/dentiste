@@ -1,4 +1,4 @@
-# 🦷 Cabinet Dentaire - Site Vitrine
+# Cabinet Dentaire - Site Vitrine
 
 Un site vitrine moderne et responsive pour un **cabinet dentaire à Cotonou**.  
 Ce projet présente les services proposés : **consultations, soins dentaires, orthodontie, implantologie, chirurgie buccale et esthétique dentaire**.  
